@@ -1,0 +1,10 @@
+Diminuir mais o formulario
+ok
+centralizar as divs
+ok
+mudar o input radio para chekbox
+ok
+criar o footer
+ok
+melhorar o responsivo
+ok
