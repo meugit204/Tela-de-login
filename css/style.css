@@ -55,7 +55,7 @@ section>.container {
 /* style da box-img */
 .box-img {
     align-items: center;
-    height: 100vh;
+    height: auto;
 }
 
 .box-img h2 {
@@ -75,6 +75,11 @@ section>.container {
     line-height: normal;
     padding-top: 30px;
     max-width: 460px;
+}
+
+.box-title {
+    width: 80%;
+    margin: 0 auto;
 }
 
 .box-title p {
