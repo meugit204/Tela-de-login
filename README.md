@@ -27,7 +27,7 @@ Cada detalhe foi pensado para proporcionar uma experiência de usuário agradáv
 
 ### 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git)](https://skillicons.dev)
 
 ### 🖍 Design
 
